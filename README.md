@@ -6,7 +6,7 @@ pip install bs4
 
 rm -rf CREATING
 
-git clone https://github.com/Hridoy0777/CREATING/CREATING.py
+git clone https://github.com/Hridoy0777/CREATING
 
 cd CREATING
 
